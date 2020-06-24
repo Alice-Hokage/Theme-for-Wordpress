@@ -1,2 +1,4 @@
 # Theme-for-Wordpress
-My first theme for Wordpress
+
+This is my first WordPress theme.
+
